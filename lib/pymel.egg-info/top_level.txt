@@ -1,0 +1,4 @@
+pymel
+maya
+PySide
+shiboken
