@@ -16,10 +16,7 @@
 
 import sys, os
 
-# add pymel location so we can get the version
-sys.path.append(os.path.abspath(os.path.join('..', '..')))
-import pymel
-_version = pymel.__version__
+_version = '1.0.7'
 
 # If your extensions are in another directory, add it here. If the directory
 # is relative to the documentation root, use os.path.abspath to make it
