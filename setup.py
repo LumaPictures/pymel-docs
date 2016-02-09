@@ -6,3 +6,4 @@ setup(name='pymel',
       packages=find_packages('lib', exclude='docs'),
       py_modules=['shiboken']
      )
+
